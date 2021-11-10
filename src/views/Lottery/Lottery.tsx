@@ -68,11 +68,11 @@ const Lottery: React.FC = () => {
           </ButtonMenu>
         </Wrapper>
         <Divider />
-        <PastLotteryDataContext.Provider
+        {/* <PastLotteryDataContext.Provider
           value={{ historyError, historyData, mostRecentLotteryNumber, currentLotteryNumber }}
         >
           {activeIndex === 0 ? <NextDrawPage /> : <PastDrawsPage />}
-        </PastLotteryDataContext.Provider>
+        </PastLotteryDataContext.Provider> */}
       </Page>
     </>
   )
