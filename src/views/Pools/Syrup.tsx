@@ -37,7 +37,7 @@ const Farm: React.FC = () => {
       <Hero>
         <div>
           <Heading as="h1" size="xxl" mb="16px" >
-            {TranslateString(738, 'Pudding Pool')}
+            {TranslateString(738, 'SQUID Pool')}
           </Heading>
           <ul>
             <li>{TranslateString(580, 'Stake Squid to earn new tokens.')}</li>
