@@ -85,7 +85,7 @@ const Home: React.FC = () => {
         <Heading as="h1" size="xl" mb="24px" color="#fff">
           {TranslateString(576, 'SquidSwap')}
         </Heading>
-        <Text style={{color:'#fff'}}>{TranslateString(578, 'The Sweetest AMM on Binance')}</Text>
+        <Text style={{color:'#fff'}}>{TranslateString(578, 'The Friendliest AMM on Binance')}</Text>
       </Hero>
       <div>
         <Cards>
