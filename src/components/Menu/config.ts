@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'http://54.70.188.141:43071/#/swap',
+        href: 'https://exchange.squidswap.finance/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'http://54.70.188.141:43071/#/pool',
+        href: 'https://exchange.squidswap.finance/#/pool',
       },
     ],
   },
