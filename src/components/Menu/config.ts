@@ -66,16 +66,13 @@ const config: MenuEntry[] = [
         
         {
           label: 'Github',
-          href: 'https://github.com/SweetSwap',
+          href: 'https://github.com/squidswapnft',
         },
         {
-          label: 'Docs',
-          href: 'https://medium.com/@SweetSwap',
+          label: 'Whitepaper',
+          href: 'https://drive.google.com/file/d/1wSwiCBAVRPKY9QaHsgKcC-h_QRXEv8A8/view?usp=drivesdk',
         },
-        {
-          label: 'Blog',
-          href: 'https://app.gitbook.com/@sweetswapfinance/s/sweetswap/',
-        },
+    
       ],
     
   },
